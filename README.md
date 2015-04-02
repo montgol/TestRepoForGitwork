@@ -1,1 +1,1 @@
-This Repo is for testing the Gitwork Desktop application
+This Repo is for testing the Gitwork Desktop App
