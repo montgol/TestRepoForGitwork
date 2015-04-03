@@ -1,1 +1,1 @@
-Some awesome Javascript stuff!
+ Awesome JavaScript code right here!
