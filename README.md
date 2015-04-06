@@ -1,4 +1,1 @@
-
-Gitwork Desktop Application !!!!
-
-!!!!!
+This is a calculator app.
