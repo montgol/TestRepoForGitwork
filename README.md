@@ -1,3 +1,3 @@
 
-This is a basic calculator app.
+This is a calculator app that adds two numbers.
 
