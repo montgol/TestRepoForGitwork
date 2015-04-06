@@ -1,3 +1,3 @@
 
-This is a calculator app.
+This is a basic calculator app.
 
